@@ -1,4 +1,4 @@
-function wh(){
+п»їfunction wh(){
 
 writeHeaderOrFooter('header');
 
@@ -31,13 +31,13 @@ function writeHeaderOrFooter(whatToDo){
 	}
 
 	document.write(
-'<font size ="1"> <a href="http://www.vif2ne.ru">ОСПОРИТЬ!!</a>'
-+' | <a href="'+path+'index.htm">Главная</a>'
-+' | <a href="'+path+'books.htm">Книги с комментариями</a>'
-+' | <a href="'+path+'annex/index.htm">Приложения</a>'
-+' | <a href="'+path+'news.htm">Новости</a>'
-+' | <a href="'+path+'authors.htm">Авторы</a>'
-+' | <a href="'+path+'parody/index.htm">Пародии</a></font>'
+'<font size ="1"> <a href="http://www.vif2ne.org">РћРЎРџРћР РРўР¬!!</a>'
++' | <a href="'+path+'index.htm">Р“Р»Р°РІРЅР°СЏ</a>'
++' | <a href="'+path+'books.htm">РљРЅРёРіРё СЃ РєРѕРјРјРµРЅС‚Р°СЂРёСЏРјРё</a>'
++' | <a href="'+path+'annex/index.htm">РџСЂРёР»РѕР¶РµРЅРёСЏ</a>'
++' | <a href="'+path+'news.htm">РќРѕРІРѕСЃС‚Рё</a>'
++' | <a href="'+path+'authors.htm">РђРІС‚РѕСЂС‹</a>'
++' | <a href="'+path+'parody/index.htm">РџР°СЂРѕРґРёРё</a></font>'
 	);
 
 	if (whatToDo=='header'){
