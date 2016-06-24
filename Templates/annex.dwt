@@ -1,0 +1,26 @@
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Untitled Document</title>
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<link rel="stylesheet" href="../main.css">
+<SCRIPT src="../main.js"></SCRIPT>
+</head>
+
+<body bgcolor="#FFFFFF"><script>wh()</script>
+<b> ПРИЛОЖЕНИЕ <!-- #BeginEditable "Annex%20Number" -->NN<!-- #EndEditable -->
+<br><!-- #BeginEditable "Annex%20Name" -->НАИМЕНОВАНИЕ ПРИЛОЖЕНИЯ<!-- #EndEditable -->
+</b> 
+
+
+<i><p> <!-- #BeginEditable "Author" --> Автор: {Author}<br>
+  Дата размещения на сайте: <!-- #EndEditable --></p>
+</i>
+
+<!-- #BeginEditable "Text" --> 
+<p>Text</p>
+<!-- #EndEditable --> 
+<script>wf()</script>
+</body>
+</html>
